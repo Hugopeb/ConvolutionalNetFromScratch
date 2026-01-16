@@ -18,6 +18,7 @@ early stage and I plan to extend it in the future.
 - Jupyter Notebook demonstrations included
 - Visualization of convolutional filters
 ![Activation1](images/First_filter_activation.png)
+![Activation2](images/Second_filter_activation.png)
 
 
 ---
