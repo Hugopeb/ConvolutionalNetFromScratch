@@ -58,7 +58,7 @@ explain the reasoning and implementation details behind each
 part of the model.
 
 ```bash
-jupyter notebook Main_notebook.ipynb
+jupyter notebook ConvolutionalNetFromScratch.ipynb
 ```
 
 Visualizations of the convolutional filters are also included in
