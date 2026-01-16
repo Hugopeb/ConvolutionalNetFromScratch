@@ -41,22 +41,27 @@ source ConvolutionalNetFromScratch/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+---
 
 ## Usage / Examples
 
-After installing dependencies and setting up the virtual environ>
+After installing dependencies and setting up the virtual
+environment you have two different options.
 
 ### Using the Jupyter Notebook
-Open the notebook to interactively run experiments and explore t>
+Open the notebook to interactively run experiments, explore the 
+code step by step, and read the accompanying comments, which 
+explain the reasoning and implementation details behind each 
+part of the model.
 
 ```bash
 jupyter notebook Main_notebook.ipynb
 ```
 
-Each cell explains step-by-step the solutions implemented
-at each stage. Visualizations of the convolutional
-filters are also included.
+Visualizations of the convolutional filters are also included in
+the notebook.
 
+---
 
 ### Using the Python script
 
@@ -69,16 +74,20 @@ python model.py
 This way you can just modify the code without having to go
 through the whole notebook and its explanations.
 
+---
+
 ## Project Structure
 
 Here’s an overview of the files and folders in this project:
 
 - **Main_notebook.ipynb**: Ideal for exploring the network interactively and understanding each step of the implementation.
 - **model.py**: Contains the classes and functions defining your neural network layers and forward/backward passes.
-- **images/**: Visual outputs to showcase results, mainy filter activations.
+- **images/**: Visual outputs to showcase results, mainly filter activations.
 - **requirements.txt**: Install all Python packages needed with `pip install -r requirements.txt`
 - **README.md**: This file, explaining the project, how to use it, and providing examples.
 - **LICENSE**: File containing the MIT License.
+
+---
 
 ## License
 
