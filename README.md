@@ -17,6 +17,8 @@ early stage and I plan to extend it in the future.
 - Training and validation loops implemented manually
 - Jupyter Notebook demonstrations included
 - Visualization of convolutional filters
+![Activation1](images/First_filter_activation.png)
+
 
 ---
 
