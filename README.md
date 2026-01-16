@@ -91,12 +91,12 @@ Here’s an overview of the files and folders in this project:
 
 ## License
 
-This project is licensed under the **MIT License**.  
+This project is licensed under the **MIT License**.
 
-You are free to use, copy, modify, merge, publish, distribute, s>
+You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this project, under the following conditions:
 
-- The above copyright notice and this permission notice shall be>
+- The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-**Disclaimer:** The software is provided "as is", without warran>
+**Disclaimer:** The software is provided "as is", without warranty of any kind, express or implied. The authors are not responsible for any claims, damages, or other liabilities.
 
 For the full license text, see the [LICENSE](LICENSE) file.
